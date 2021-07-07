@@ -1,3 +1,5 @@
+![Screenshot (50)](https://user-images.githubusercontent.com/76266033/124806988-ec655480-df7a-11eb-8121-e9437108988b.png)
+
 Hi, I'm Shikhar! 👋
 🔥 21 Year's Old Software Developer grinding hard to make something cool
 ✨ Favorite Tech: Java , MySQL , 
