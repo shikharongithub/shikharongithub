@@ -9,7 +9,7 @@
 
 ✉️ shikharverma5714915@gmail.com
 
-🎨 Portfolio:
+🎨 Portfolio: https://shikharongithub.github.io/myPortfolio.github.io/
 
 💼 LinkedIn: https://www.linkedin.com/in/shikhar-verma-4bb394191/
 
