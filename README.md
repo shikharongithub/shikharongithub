@@ -2,7 +2,7 @@
 
 **Hi, I'm Shikhar!** 👋
 
-🔥 21 Year's Old Aspiring Software Developer grinding hard to make something cool
+🔥 21 Year's Old Aspiring Software Engineer grinding hard to make something cool
 
 ✨ Favorite Tech: Java , MySQL , Data Strucures , ReactJs
 📓 I’m currently learning DS and Algo... 😭
