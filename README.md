@@ -4,7 +4,7 @@
 
 🔥 21 Year's Old Aspiring Software Engineer grinding hard to make something cool
 
-✨ Favorite Tech: Java , MySQL , Data Strucures , ReactJs
+✨ Favorite Tech: Java , MySQL , Data Strucures 
 📓 I’m currently learning DS and Algo... 😭
 
 ✉️ shikharverma5714915@gmail.com
